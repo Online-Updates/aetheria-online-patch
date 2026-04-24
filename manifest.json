@@ -1,7 +1,7 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-04-24T15:27:38Z",
-    "fileCount":  4,
+    "generatedUtc":  "2026-04-24T19:42:21Z",
+    "fileCount":  5,
     "deletedFiles":  [
                          "scripts/table/eff.bin",
                          "system/MindPower3D_D9R.clean.dll",
@@ -25,6 +25,12 @@
                       "sha256":  "CDFD8966F2EF9ADB9A67E89CFCDC907F015887D84449FF53D871235C7CA42E91",
                       "size":  8,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/txt/server.tx"
+                  },
+                  {
+                      "path":  "system/Game.exe",
+                      "sha256":  "DDC850F38ECC0CE9C238898B8E318DE2B5C9EE2EA48CD4B1FAABB29DE78E55C8",
+                      "size":  3954176,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/system/Game.exe"
                   },
                   {
                       "path":  "system/MindPower3D_D9R.dll",
