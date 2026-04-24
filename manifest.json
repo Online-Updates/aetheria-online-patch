@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.2",
-    "generatedUtc":  "2026-04-23T08:44:24Z",
+    "version":  "1.0.0",
+    "generatedUtc":  "2026-04-24T11:19:22Z",
     "fileCount":  0,
     "deletedFiles":  [
-
+                         "scripts/table/eff.bin"
                      ],
     "files":  [
 
