@@ -1,11 +1,17 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-04-24T13:10:13Z",
-    "fileCount":  2,
+    "generatedUtc":  "2026-04-24T13:41:26Z",
+    "fileCount":  3,
     "deletedFiles":  [
                          "scripts/table/eff.bin"
                      ],
     "files":  [
+                  {
+                      "path":  "scripts/table/sceneffectinfo.bin",
+                      "sha256":  "72D886AD1C4652A3FBC1A14686E2F9AF3416EAC8B9AC7CC7E191BDD2474E24F1",
+                      "size":  2912012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/sceneffectinfo.bin"
+                  },
                   {
                       "path":  "scripts/table/ServerSet.bin",
                       "sha256":  "2E3FD0F8AB613D685CE36959A800FFA3C773D807D6631B41A77EF56CF6BCE439",
