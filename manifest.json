@@ -1,9 +1,11 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-04-24T14:18:38Z",
+    "generatedUtc":  "2026-04-24T14:23:56Z",
     "fileCount":  4,
     "deletedFiles":  [
-                         "scripts/table/eff.bin"
+                         "scripts/table/eff.bin",
+                         "system/MindPower3D_D9R.clean.dll",
+                         "system/MindPower3D_D9R.pdb"
                      ],
     "files":  [
                   {
