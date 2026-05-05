@@ -1,7 +1,7 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-05-01T04:46:35Z",
-    "fileCount":  7,
+    "generatedUtc":  "2026-05-05T11:56:19Z",
+    "fileCount":  41,
     "deletedFiles":  [
                          "scripts/table/eff.bin",
                          "system/MindPower3D_D9R.clean.dll",
@@ -9,10 +9,64 @@
                      ],
     "files":  [
                   {
+                      "path":  "scripts/table/AreaSet.bin",
+                      "sha256":  "981040DF6792D9275B9E763DBB0A3973F3BBA40A5B54BF26E459282A8A6FB7B1",
+                      "size":  42012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/AreaSet.bin"
+                  },
+                  {
+                      "path":  "scripts/table/bosswarning.bin",
+                      "sha256":  "B7383E8CB0F99FAEC6C6FBD42038AF40F1AE2E787D29029B6F9ACF882C92B378",
+                      "size":  304,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/bosswarning.bin"
+                  },
+                  {
                       "path":  "scripts/table/Characterinfo.bin",
-                      "sha256":  "C23D5AFD4FC4E8486EE16C59C44FA57506817ED929BA9E4F053E2D0909690658",
+                      "sha256":  "D31843B6413B91A7B29B841613BB76F7A8DA8145A2584B784C63171CA38DD93D",
                       "size":  2550012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/Characterinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/characterposeinfo.bin",
+                      "sha256":  "378ADDE6CE2E5FB5867D8FAC091ADD8D285873DBE6C8A8365A43C0A248CE6F4A",
+                      "size":  12412,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/characterposeinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/chaticons.bin",
+                      "sha256":  "2749F397CF2C1ED1748F350760B4CA0CF5CE818F13BD3E30C1C6211D73C662E5",
+                      "size":  21212,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/chaticons.bin"
+                  },
+                  {
+                      "path":  "scripts/table/eff.bin",
+                      "sha256":  "7522A1E7679E1DF43258F8D95DF6EC198CE28BA8F21831D3641083190C686B31",
+                      "size":  394,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/eff.bin"
+                  },
+                  {
+                      "path":  "scripts/table/ElfSkillInfo.bin",
+                      "sha256":  "4B630E7C2847A1E8D33FEB84D50A275EB370DA9C2C3A6863423701E00A157312",
+                      "size":  11612,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/ElfSkillInfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/eventsound.bin",
+                      "sha256":  "B5D312F7F55F31D511F9FD65B8F1442B97FAD5B3912443F37EADF48199B57090",
+                      "size":  3372,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/eventsound.bin"
+                  },
+                  {
+                      "path":  "scripts/table/forgeitem.bin",
+                      "sha256":  "6C034560B74B794D530C91F5DF491E6735939AA34DCAA0CFB838CDB19AEFADD8",
+                      "size":  1692,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/forgeitem.bin"
+                  },
+                  {
+                      "path":  "scripts/table/hairs.bin",
+                      "sha256":  "A1E5EAD73E54069782835443132597FFBD7F3DAA5742F2D1EBD99F1CD307E019",
+                      "size":  90012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/hairs.bin"
                   },
                   {
                       "path":  "scripts/table/iteminfo.bin",
@@ -21,16 +75,166 @@
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/iteminfo.bin"
                   },
                   {
+                      "path":  "scripts/table/itempre.bin",
+                      "sha256":  "6B338AA7340AD38F54BFE520A96461265A4C3E4B41188CD086BA68A853E56DC2",
+                      "size":  10812,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/itempre.bin"
+                  },
+                  {
+                      "path":  "scripts/table/ItemRefineEffectInfo.bin",
+                      "sha256":  "3E037E3EC1C0C5D664382306F336424E3BBACCB0A60D8AB51BAB602473659BDA",
+                      "size":  820012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/ItemRefineEffectInfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/ItemRefineInfo.bin",
+                      "sha256":  "B580137E24240283F5E3CAEBCDCFF5493ED8BB9BC3DEE7A0B8310ECE4E0F87D4",
+                      "size":  9961332,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/ItemRefineInfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/itemtype.bin",
+                      "sha256":  "653583DEB502557C31CB49195C24BDBB3C39CAB4E33DB2637C5C00DDA15D8216",
+                      "size":  10812,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/itemtype.bin"
+                  },
+                  {
+                      "path":  "scripts/table/MagicGroupInfo.bin",
+                      "sha256":  "3F471B48BE881AD1E2210189819311455D67734CF382CD8CA18721CE40D24D35",
+                      "size":  2172,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/MagicGroupInfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/MagicSingleinfo.bin",
+                      "sha256":  "5627488154E3C3BBD6B502F54C625FEA05A9A75CC56F7A8CB6A4AB5B096F799F",
+                      "size":  60012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/MagicSingleinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/mapinfo.bin",
+                      "sha256":  "339A9228EE0215A004A77D47E90D084AFC28206A3FDDD5E8C96B451C8D190A71",
+                      "size":  14812,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/mapinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/MonsterInfo.bin",
+                      "sha256":  "7B555A08BD8625BE38C24458FC21EAA4FAF4D135C88FEDF681EE06D169C261CE",
+                      "size":  220012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/MonsterInfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/MonsterList.bin",
+                      "sha256":  "D287E2A0194DE383C4D1E9A51F7639183555F9A63E290A514E815800B0B05944",
+                      "size":  500012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/MonsterList.bin"
+                  },
+                  {
+                      "path":  "scripts/table/mountinfo.bin",
+                      "sha256":  "0723A572D18F07AFAEACC9314506A23CBB8803FDF4B36F99C1795532BE0E8E9D",
+                      "size":  66012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/mountinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/musicinfo.bin",
+                      "sha256":  "F7D4E728AC35409E013BD49B368AEFC5C1F60DEAE408CE494DEE4CF71D12F1BE",
+                      "size":  56012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/musicinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/notifyset.bin",
+                      "sha256":  "98A63B6F4122FECEF35BF359EE988FA5B1EC4A89CD6B457E85E085B8C174D098",
+                      "size":  17612,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/notifyset.bin"
+                  },
+                  {
+                      "path":  "scripts/table/NPCList.bin",
+                      "sha256":  "1535662C21CCDA2E81E879746360386D2C18CE6F3A3E4084D24F8F5419610295",
+                      "size":  500012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/NPCList.bin"
+                  },
+                  {
+                      "path":  "scripts/table/objevent.bin",
+                      "sha256":  "579263735A91FEC68A66EC10C661135354E0EAB9EC0E1C0ED1CEF1BF7F4683BB",
+                      "size":  1492,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/objevent.bin"
+                  },
+                  {
+                      "path":  "scripts/table/ResourceInfo.bin",
+                      "sha256":  "F969CBD18D342C6D7B02407047BD03ED5BDC07380810DBCED687A2DDEAA7ECEC",
+                      "size":  336012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/ResourceInfo.bin"
+                  },
+                  {
                       "path":  "scripts/table/sceneffectinfo.bin",
                       "sha256":  "E5726C62754470EF2EC89D12A5E013E3CFB37A89592D94A9292862CE9EC36222",
                       "size":  2912012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/sceneffectinfo.bin"
                   },
                   {
+                      "path":  "scripts/table/sceneobjinfo.bin",
+                      "sha256":  "0191FBE703F7B7587B49FED7425BB0C741D7473D15F3BD3D11D1ED6F175987D8",
+                      "size":  828012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/sceneobjinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/selectcha.bin",
+                      "sha256":  "0279593AA2F0A3113E0AF3E56BDCBB2AB63229737ADDAF70AD8295E958F9E19B",
+                      "size":  146652,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/selectcha.bin"
+                  },
+                  {
                       "path":  "scripts/table/ServerSet.bin",
-                      "sha256":  "2E3FD0F8AB613D685CE36959A800FFA3C773D807D6631B41A77EF56CF6BCE439",
+                      "sha256":  "2599774207B4E9C3AE4790D18EE821764B5D50EF43C4F15EB4346C5370E02DC9",
                       "size":  20812,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/ServerSet.bin"
+                  },
+                  {
+                      "path":  "scripts/table/shadeinfo.bin",
+                      "sha256":  "F7F864D92F3A7FA73F057D50BB363972FA4CFA72A2C7154B000E00C7D6187ED5",
+                      "size":  2408012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/shadeinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/shipinfo.bin",
+                      "sha256":  "201599092DA200DEBBF08037BF3639C07278249B6D6BDA48F72C9EFE9654A071",
+                      "size":  61452,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/shipinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/shipiteminfo.bin",
+                      "sha256":  "143AA92353966B01C7FEA6BC09FC39AB62EC12F785EE8094545DBE71A8C88ED9",
+                      "size":  174012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/shipiteminfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/skilleff.bin",
+                      "sha256":  "9E2C047F9E696F75D8320C67586BA95F344F4945F11621090DD190D61289C0BA",
+                      "size":  208812,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/skilleff.bin"
+                  },
+                  {
+                      "path":  "scripts/table/skillinfo.bin",
+                      "sha256":  "09FAAA4067E6574F72F11740E841016F7BC40697B977A6666CCE1F2505F4B9F6",
+                      "size":  626012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/skillinfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/StoneInfo.bin",
+                      "sha256":  "343B98F946BED2BD704236A9B47837EA421FC4F22E5B2EAF82E608F2B89FF96D",
+                      "size":  19612,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/StoneInfo.bin"
+                  },
+                  {
+                      "path":  "scripts/table/StringSet.bin",
+                      "sha256":  "1A5BAE2DBFA3E34A5872F277E9B87EB2A4B786714009C7F2D3C53D66834B4727",
+                      "size":  101100,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/StringSet.bin"
+                  },
+                  {
+                      "path":  "scripts/table/TerrainInfo.bin",
+                      "sha256":  "72C2EC94AE310FEA21776DBC74C2CA8207924707E47A3B4E1D2204DA1C732CB6",
+                      "size":  12012,
+                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/TerrainInfo.bin"
                   },
                   {
                       "path":  "scripts/txt/server.tx",
@@ -40,8 +244,8 @@
                   },
                   {
                       "path":  "system/Game.exe",
-                      "sha256":  "00A4AE5BBF01BF6E741D5377ACB77A5B36358291DDF68A551A36A1A7A12128B2",
-                      "size":  3948544,
+                      "sha256":  "C234C66F56E200F71447D9E4739241BAF1F9D9D1A540CF3973DF24D9FD88CAFE",
+                      "size":  3969024,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/system/Game.exe"
                   },
                   {
