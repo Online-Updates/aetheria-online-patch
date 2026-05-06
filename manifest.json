@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-05-05T13:47:57Z",
+    "generatedUtc":  "2026-05-06T05:07:46Z",
     "fileCount":  41,
     "deletedFiles":  [
                          "scripts/table/eff.bin",
@@ -244,8 +244,8 @@
                   },
                   {
                       "path":  "system/Game.exe",
-                      "sha256":  "A650F8AA5158AB335CF5D77D726A89964B4D2FCC8D6C40BF7342B8E35C58C32E",
-                      "size":  3969536,
+                      "sha256":  "5480749F9EF81508C0198460DA79388D76D8EC396A48720842CBB8D61B12EF86",
+                      "size":  3971072,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/system/Game.exe"
                   },
                   {
