@@ -1,7 +1,7 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-05-06T05:09:28Z",
-    "fileCount":  41,
+    "generatedUtc":  "2026-05-06T14:11:08Z",
+    "fileCount":  40,
     "deletedFiles":  [
                          "scripts/table/eff.bin",
                          "system/MindPower3D_D9R.clean.dll",
@@ -37,12 +37,6 @@
                       "sha256":  "2749F397CF2C1ED1748F350760B4CA0CF5CE818F13BD3E30C1C6211D73C662E5",
                       "size":  21212,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/chaticons.bin"
-                  },
-                  {
-                      "path":  "scripts/table/eff.bin",
-                      "sha256":  "7522A1E7679E1DF43258F8D95DF6EC198CE28BA8F21831D3641083190C686B31",
-                      "size":  394,
-                      "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/eff.bin"
                   },
                   {
                       "path":  "scripts/table/ElfSkillInfo.bin",
