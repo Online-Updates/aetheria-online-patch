@@ -1,6 +1,6 @@
 ﻿{
     "version":  "1.0.0",
-    "generatedUtc":  "2026-05-06T14:11:08Z",
+    "generatedUtc":  "2026-05-16T18:13:50Z",
     "fileCount":  40,
     "deletedFiles":  [
                          "scripts/table/eff.bin",
@@ -10,7 +10,7 @@
     "files":  [
                   {
                       "path":  "scripts/table/AreaSet.bin",
-                      "sha256":  "B57FBAD423518BECDFD772EF280244F3CBC255B97E2CF4166CCBAD959442F5C4",
+                      "sha256":  "2AB51D01F936180F0158E40B40DD296E74BA9ADAEE635F9C13C67C31049DC233",
                       "size":  42012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/AreaSet.bin"
                   },
@@ -22,13 +22,13 @@
                   },
                   {
                       "path":  "scripts/table/Characterinfo.bin",
-                      "sha256":  "83A055E5C9A9FC0A9ED3287097B61DEF1A419AD70F45639B2BA9F1DA7329A4A6",
+                      "sha256":  "FDF5B6500D502AD5E3A0A4CCA04BC710CA973774D63F2C5141DB0493D746FFAA",
                       "size":  2550012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/Characterinfo.bin"
                   },
                   {
                       "path":  "scripts/table/characterposeinfo.bin",
-                      "sha256":  "8FBB36DF1D64101341B578B4941E8F039EE7A74241571DFF88BF66755F9F4CFC",
+                      "sha256":  "4E79EEF41463BCD46135A4A4B92C4D49453C640E9F3B53C1CF848ED300755D4D",
                       "size":  12412,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/characterposeinfo.bin"
                   },
@@ -52,19 +52,19 @@
                   },
                   {
                       "path":  "scripts/table/forgeitem.bin",
-                      "sha256":  "B9934F52B0849F464D11C6B40FBAC9BF8D95E74923F77EEFD26CB06B61E1C241",
+                      "sha256":  "6C034560B74B794D530C91F5DF491E6735939AA34DCAA0CFB838CDB19AEFADD8",
                       "size":  1692,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/forgeitem.bin"
                   },
                   {
                       "path":  "scripts/table/hairs.bin",
-                      "sha256":  "18AF98C2B622AC0CF9B8882E76DEE2B70EA8E7FABAA2B59EBAD8465A3EFE91E2",
+                      "sha256":  "9951550784BCC1A7AF4CBE13717955EFC83F74D9A29928F93BF99D73FED58466",
                       "size":  90012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/hairs.bin"
                   },
                   {
                       "path":  "scripts/table/iteminfo.bin",
-                      "sha256":  "25C13F5A655A96806DB5B8772D5B600D5AA6168F70D15BB3D069C25881524142",
+                      "sha256":  "45E567A930F4AF9AB170CBD61BC02A3712E54AAC00C0F0BA1677B4142D8551E4",
                       "size":  60292212,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/iteminfo.bin"
                   },
@@ -100,7 +100,7 @@
                   },
                   {
                       "path":  "scripts/table/MagicSingleinfo.bin",
-                      "sha256":  "F0C34E9699ECB034D6E9F6A024D909FFF2AB30852CCF28E34EBAC5E633F4E086",
+                      "sha256":  "5627488154E3C3BBD6B502F54C625FEA05A9A75CC56F7A8CB6A4AB5B096F799F",
                       "size":  60012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/MagicSingleinfo.bin"
                   },
@@ -148,7 +148,7 @@
                   },
                   {
                       "path":  "scripts/table/objevent.bin",
-                      "sha256":  "579263735A91FEC68A66EC10C661135354E0EAB9EC0E1C0ED1CEF1BF7F4683BB",
+                      "sha256":  "74BBC890A996E652DB6353E29C0D6A3699FAAAA85D52F88DBC6AEEDF6757E8B0",
                       "size":  1492,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/objevent.bin"
                   },
@@ -160,7 +160,7 @@
                   },
                   {
                       "path":  "scripts/table/sceneffectinfo.bin",
-                      "sha256":  "E5726C62754470EF2EC89D12A5E013E3CFB37A89592D94A9292862CE9EC36222",
+                      "sha256":  "EBA5752E7CB581EB57F636F8D09F8ABE6DF71D17564BC1E0D62DA7CCD7179BC5",
                       "size":  2912012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/sceneffectinfo.bin"
                   },
@@ -172,7 +172,7 @@
                   },
                   {
                       "path":  "scripts/table/selectcha.bin",
-                      "sha256":  "E4C94040EFCAC3DEC9D454A07AE4CEBF88B8E2A20FF9D00C6F4650FFE7128893",
+                      "sha256":  "6495EE7593EA1DD82668E12C15FB8091F76EE101A8CA27CABDB876191B40C45D",
                       "size":  146652,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/selectcha.bin"
                   },
@@ -202,13 +202,13 @@
                   },
                   {
                       "path":  "scripts/table/skilleff.bin",
-                      "sha256":  "4529DD317BBD263CDB91AB3356F4E1B10FA6AAC4CE63E25EA750D95FA285CF54",
+                      "sha256":  "7AB8DD14811CB0A04B34626521B56B496AB803236AE7130D0463E608144F0DAC",
                       "size":  208812,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/skilleff.bin"
                   },
                   {
                       "path":  "scripts/table/skillinfo.bin",
-                      "sha256":  "7993EB6A364A9F3F68251CC6934791FFD882E9C3C39A723BFBEF66727C8B7671",
+                      "sha256":  "F81026EFAC819149D1B6F93CC4CFE9791F5866EE09BA7BA9674DB783B4BFC2AA",
                       "size":  626012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/skillinfo.bin"
                   },
@@ -226,7 +226,7 @@
                   },
                   {
                       "path":  "scripts/table/TerrainInfo.bin",
-                      "sha256":  "2F8D7D1D3BFB87A92922983BC43886A16CCC4A7DD12F482F30D925176146C40D",
+                      "sha256":  "B51C1D1F659986CDAE822D75CAEE4B7EE265DDB1F6B7C637DB8D85011F581E87",
                       "size":  12012,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/scripts/table/TerrainInfo.bin"
                   },
@@ -238,14 +238,14 @@
                   },
                   {
                       "path":  "system/Game.exe",
-                      "sha256":  "5480749F9EF81508C0198460DA79388D76D8EC396A48720842CBB8D61B12EF86",
-                      "size":  3971072,
+                      "sha256":  "0B5A2C1D71A0CAEA6BEABFBCA20EEF5EB2A856BDB47AA12EB8C62F701E72602E",
+                      "size":  3937280,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/system/Game.exe"
                   },
                   {
                       "path":  "system/MindPower3D_D9R.dll",
-                      "sha256":  "7199B98652B89A9D9A0F94F6F04AF651CA33E7574ED9395A9581783702381C70",
-                      "size":  4489728,
+                      "sha256":  "F7905B6C4CD8A7F48006A2749BFC69583FAD8C88642FD369857B7088073A4E70",
+                      "size":  4472320,
                       "url":  "https://raw.githubusercontent.com/Online-Updates/aetheria-online-patch/main/files/system/MindPower3D_D9R.dll"
                   }
               ]
